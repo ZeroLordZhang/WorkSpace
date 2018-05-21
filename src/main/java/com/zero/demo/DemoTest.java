@@ -5,6 +5,7 @@ public class DemoTest {
         String a = "test";
         String c = "";
         String b = "test2";
+        String e = "";
         System.out.println(b);
 
     }
